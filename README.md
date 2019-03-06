@@ -1,6 +1,6 @@
 # NewsletterYvesRocher
 
-### Projet realised during the becode training cours
+### Projet realised during training cours at becode
 
 ### Goals
 
